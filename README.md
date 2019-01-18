@@ -1,2 +1,2 @@
 # tensorflow
-## 图片识别的部分代码
+# tensorflow图片识别训练和校验的代码
