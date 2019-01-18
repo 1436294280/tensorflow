@@ -1,4 +1,5 @@
 # tensorflow
  **tensorflow图片识别训练和校验的代码**
-# todo
+# state
 - [x] 部分识别
+- [ ] 全部识别 
