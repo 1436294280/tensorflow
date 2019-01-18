@@ -4,7 +4,7 @@
 - [x] 部分识别
 - [ ] 全部识别 
 # code
-`
+````
 printf();
-console
-`
+console();
+`````
