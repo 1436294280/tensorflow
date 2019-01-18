@@ -6,5 +6,5 @@
 # code
 ````c++
 printf();
-console();
+scanf();//just for test
 `````
